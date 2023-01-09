@@ -138,6 +138,16 @@ Move: 4
 O to move
 Hash: 10772131572909586189
 
+tictactoe> yourmom
+Not a valid move (yourmom)
+ | |
+-+-+-
+ |X|
+-+-+-
+ | |
+O to move
+Hash: 10772131572909586189
+
 tictactoe> game mancala
      4  4  4  4  4  4
   0 ------------------  0
