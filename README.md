@@ -6,7 +6,7 @@ This is mostly an exercise to learn Python inheritance, modules, packages, and w
 
 mpge.py contains virtual, inheritable classes for boards, moves, searches.
 
-Three games are implemented (tic tac toe, mancala, Gobblet Gobblers)
+Three games are implemented
 * Tic Tac Toe
 * Mancala
 * Gobblet Gobblers
